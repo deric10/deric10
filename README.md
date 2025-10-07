@@ -28,20 +28,24 @@
 <h2 align="center">Languages &amp; Tools</h2>
 
 <p align="center">
-  <code><img title="Vue" height="25" src="images/vue.svg" alt="Vue" loading="lazy"></code>
-  <code><img title="React Native" height="25" src="images/react-original.svg" alt="React Native" loading="lazy"></code>
-  <code><img title="Expo" height="25" src="images/expo.svg" alt="Expo" loading="lazy"></code>
-  <code><img title="Laravel" height="25" src="images/laravel.svg" alt="Laravel" loading="lazy"></code>
-  <code><img title="PHP" height="25" src="images/php.svg" alt="PHP" loading="lazy"></code>
-  <code><img title="TypeScript" height="25" src="images/typescript.svg" alt="TypeScript" loading="lazy"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg" alt="JavaScript" loading="lazy"></code>
-  <code><img title="Tailwind CSS" height="25" src="images/tailwind.svg" alt="Tailwind CSS" loading="lazy"></code>
-  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg" alt="Bootstrap" loading="lazy"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg" alt="MySQL" loading="lazy"></code>
-  <code><img title="GraphQL" height="25" src="images/graphql.svg" alt="GraphQL" loading="lazy"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg" alt="Docker" loading="lazy"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg" alt="Git" loading="lazy"></code>
-  <code><img title="Figma" height="25" src="images/figma.svg" alt="Figma" loading="lazy"></code>
+  <code><img title="JavaScript" height="25" src="images/LogosJavascript.svg" alt="JavaScript" loading="lazy"></code>
+  <code><img title="TypeScript" height="25" src="images/LogosTypescriptIcon.svg" alt="TypeScript" loading="lazy"></code>
+  <code><img title="Vue" height="25" src="images/LogosVue.svg" alt="Vue" loading="lazy"></code>
+  <code><img title="Nuxt js" height="25" src="images/LogosNuxtIcon.svg" alt="React Native" loading="lazy"></code>
+  <code><img title="Node" height="25" src="images/LogosNodejsIconAlt.svg" alt="Expo" loading="lazy"></code>
+  <code><img title="Hono" height="25" src="images/LogosHono.svg" alt="Expo" loading="lazy"></code>
+  <code><img title="GraphQL" height="25" src="images/LogosGraphql.svg" alt="GraphQL" loading="lazy"></code>
+  <code><img title="PHP" height="25" src="images/LogosPhp.svg" alt="PHP" loading="lazy"></code>
+  <code><img title="Laravel" height="25" src="images/LogosLaravel.svg" alt="Laravel" loading="lazy"></code>
+  <code><img title="CSS" height="25" src="images/LogosCss3.svg" alt="Tailwind CSS" loading="lazy"></code>
+  <code><img title="Tailwind CSS" height="25" src="images/LogosTailwindcssIcon.svg" alt="Tailwind CSS" loading="lazy"></code>
+  <code><img title="Bootstrap" height="25" src="images/LogosBootstrap.svg" alt="Bootstrap" loading="lazy"></code>
+  <code><img title="MySQL" height="25" src="images/LogosMysql.svg" alt="MySQL" loading="lazy"></code>
+  <code><img title="SQLite" height="25" src="images/LogosSqlite.svg" alt="MySQL" loading="lazy"></code>
+  <code><img title="PostgreSQL" height="25" src="images/LogosPostgresql.svg" alt="MySQL" loading="lazy"></code>
+  <code><img title="Figma" height="25" src="images/LogosFigma.svg" alt="Figma" loading="lazy"></code>
+  <code><img title="Git" height="25" src="images/LogosGitIcon.svg" alt="Git" loading="lazy"></code>
+  <code><img title="Docker" height="25" src="images/LogosDocker.svg" alt="Docker" loading="lazy"></code>
 </p>
 
 
