@@ -44,15 +44,4 @@
   <code><img title="Figma" height="25" src="images/figma.svg" alt="Figma" loading="lazy"></code>
 </p>
 
-<h2 align="center">Stats</h2>
-
-<!-- Two images sit side-by-side on wide screens and stack on phones -->
-<p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Streak stats source">
-    <img alt="deric10 streak" width="49%" src="https://streak-stats.demolab.com/?user=deric10&theme=react&border=61dafb&hide_border=true">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub stats source">
-    <img alt="deric10 stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=deric10&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
-  </a>
-</p>
 
