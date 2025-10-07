@@ -5,7 +5,7 @@
   </a>
   &nbsp;•&nbsp;
   <a href="https://x.com/your-handle" aria-label="X (Twitter) Profile" rel="noopener noreferrer">
-    <img width="22" src="images/linkedin.svg" alt="X icon"> X
+    <img width="22" src="images/LogosX.svg" alt="X icon"> X
   </a>
   &nbsp;•&nbsp;
   <a href="https://www.hackerrank.com/your-handle" aria-label="HackerRank Profile" rel="noopener noreferrer">
