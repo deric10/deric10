@@ -17,13 +17,15 @@
   <img alt="Visitors badge" src="https://vbr.nathanchung.dev/badge?page_id=deric10.deric10&color=00cf00">
 </p>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 deric
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚖 & 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜 — 🇹🇿 𝚃𝚊𝚗𝚣𝚊𝚗𝚒𝚊  
-- 🌍 𝙳𝚒𝚟𝚎𝚛𝚜𝚎 𝚠𝚎𝚋 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚑𝚊𝚗𝚍𝚜-𝚘𝚗 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 **𝚃𝚘𝚞𝚛𝚒𝚜𝚖, 𝙲𝙼𝚂, 𝙵𝚒𝚗𝚃𝚎𝚌𝚑, 𝚊𝚗𝚍 𝙴𝚁𝙿𝚜**  
-- 💼 𝙳𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 & 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 **𝚠𝚎𝚋 𝚊𝚗𝚍 𝚖𝚘𝚋𝚒𝚕𝚎 𝚊𝚙𝚙𝚜** 𝚝𝚑𝚊𝚝 𝚋𝚕𝚎𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚒𝚝𝚢 𝚠𝚒𝚝𝚑 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎  
-- 🧩 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚌𝚕𝚒𝚎𝚗𝚝𝚜 𝚊𝚌𝚛𝚘𝚜𝚜 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚒𝚗𝚍𝚞𝚜𝚝𝚛𝚒𝚎𝚜 𝚝𝚘 𝚋𝚛𝚒𝚗𝚐 𝚒𝚍𝚎𝚊𝚜 𝚝𝚘 𝚕𝚒𝚏𝚎  
-- 📱 𝚂𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚒𝚗: 𝚅𝚞𝚎 3 / Nuxt.js + Node js / Hono js / TypeScript + 𝙻𝚊𝚛𝚊𝚟𝚎𝚕 / 𝙿𝙷𝙿 • / REST / 𝙶𝚛𝚊𝚙𝚑𝚀𝙻  
-- 🧠 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 **AI systems**, smart integrations & automation agents
+## 𝙰𝚋𝚘𝚞𝚝 deric
+<div style="font-style: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-weight:500; line-height:1.6;">
+  <ul>
+ <li>Software developer with bold ideas and strong enthusiasm — based in Tanzania. </li>
+  <li>Versatile web developer with hands-on experience in Tourism, CMS, FinTech, and ERP systems. </li>
+  <li> Designs and develops web and mobile applications that combine creativity with scalable architecture, collaborating with clients across various industries to bring ideas to life. </li>
+ <li> Specializing in Js/Ts based ecosystems,Rest API/GraphicQL as well as PHP based ecosystems especial Laravel and CodeIgniter </li>
+ <li> Currently exploring AI systems, smart integrations, and automated solutions.y </li>
+</div>
 
 <h2 align="center">Languages &amp; Tools</h2>
 
