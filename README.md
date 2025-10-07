@@ -56,39 +56,3 @@
   </a>
 </p>
 
-<h2 align="center">Project(s)</h2>
-
-<!-- 
-  Responsive project gallery:
-  - Each card uses width="49%" so two per row on desktop.
-  - On small screens images naturally wrap to one per row.
-  - Duplicate <a>…</a> blocks for more projects.
--->
-<p align="center">
-
-  <!-- Project Card -->
-  <a href="https://gist.github.com/deric10/bbfce31e0217a3689c8d961a356cb10d" title="Gist: Example Project 1">
-    <img
-      alt="Project 1 card"
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=transparent&hide_border=true"
-      loading="lazy">
-  </a>
-
-  <!-- Project Card (alt theme) -->
-  <a href="https://gist.github.com/deric10/bbfce31e0217a3689c8d961a356cb10d" title="Gist: Example Project 2">
-    <img
-      alt="Project 2 card"
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=tokyonight&hide_border=true"
-      loading="lazy">
-  </a>
-
-  <!-- Add more projects by copying a block above and changing the link/id -->
-  <!-- Example:
-  <a href="https://github.com/your-org/your-repo" title="Your Repo">
-    <img alt="Your Repo card" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=your-user&repo=your-repo&theme=transparent&hide_border=true" loading="lazy">
-  </a>
-  -->
-
-</p>
